@@ -1,2 +1,2 @@
 #!/bin/bash
-drwxr-x--x
+chmod -R a+X
